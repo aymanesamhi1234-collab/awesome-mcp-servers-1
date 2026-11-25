@@ -449,6 +449,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🔒 <a name="security"></a>Security
 
+- <img src="https://cdn.simpleicons.org/shield/5EF2C0" height="14"/> [A2P-32 Guard](https://github.com/aymanesamhi1234-collab/a2p32-mcp) - Spend and limit firewall for agents: approve or block an action before it happens (budget, rate, writes, transfers), all-or-nothing. Remote MCP with free trial; x402 on Base.
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
